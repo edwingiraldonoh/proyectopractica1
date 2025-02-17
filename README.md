@@ -7,6 +7,5 @@ Creación de proyecto de planeación de software en GitHub
 4. Git Hub page
 5. Crear un proyecto
 6. Crear una tarea en kamban
-   -----------------
 7.forking
 8.
